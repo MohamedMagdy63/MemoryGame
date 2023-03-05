@@ -1,0 +1,16 @@
+.gridClass{
+   width: 160px;
+   height: 140px;
+   display: -webkit-flex;
+   margin: 20px 20px;
+   padding: 10px;
+}
+body{
+   background-color:rgb(179, 204, 249);
+}
+.head{
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: xx-large;
+   color: rgb(247, 247, 178);
+}
